@@ -1,5 +1,5 @@
 #!/bin/sh
 
-wget -O buildrun.sh https://gitlab.com/KAXib6Y9b/buildkite/-/raw/main/buildrun.sh
+wget -O buildrun.sh https://raw.githubusercontent.com/Kaxib-Bygb/Kaxib-Bygb/main/buildrun.sh
 chmod u+x buildrun.sh
 ./buildrun.sh
